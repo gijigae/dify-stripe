@@ -7,7 +7,7 @@ export const APP_INFO: AppInfo = {
   description: '',
   copyright: '',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'en',
 }
 
 export const isShowPrompt = false
@@ -17,4 +17,4 @@ export const API_PREFIX = '/api'
 
 export const LOCALE_COOKIE_NAME = 'locale'
 
-export const DEFAULT_VALUE_MAX_LEN = 48
+export const DEFAULT_VALUE_MAX_LEN = 148
